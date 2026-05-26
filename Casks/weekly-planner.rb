@@ -1,6 +1,6 @@
 cask "weekly-planner" do
-  version "1.18.0"
-  sha256 "35ff6f06995db7a94ff08837109096d414987c63c8dbcf389f872ae0fe9f8bc0"
+  version "1.20.0"
+  sha256 "c9ed218092e4c9ef220083a3ba6ab0238d8822a0964efe48aa63b50a3b657bab"
 
   url "https://github.com/EYssel/planner-app/releases/download/v#{version}/Weekly-Planner-#{version}-arm64.dmg"
   name "Weekly Planner"
